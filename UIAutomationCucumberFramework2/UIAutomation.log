@@ -1,0 +1,237 @@
+2022-01-21 15:02:50,317 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 15:02:50,501 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 15:02:50,501 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 15:02:50,502 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 15:03:09,198 [ERROR] stepDefinition.VerifyCEOnameStep [main] java.lang.NullPointerException
+2022-01-21 15:03:09,373 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 15:03:09,373 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 15:03:09,373 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 15:03:09,374 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 15:05:21,820 [ERROR] stepDefinition.VerifyPendingTimesheetStep [main] java.lang.NullPointerException
+2022-01-21 15:06:58,771 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 15:06:58,775 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 15:06:58,775 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 15:06:58,818 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 15:07:32,880 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 15:07:33,672 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 15:07:40,873 [INFO ] stepDefinition.VerifyCEOnameStep [main] select the job title as {string}
+2022-01-21 15:07:42,087 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 15:07:42,275 [INFO ] stepDefinition.VerifyCEOnameStep [main] User should name as John Smith
+2022-01-21 15:07:42,306 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 15:07:42,306 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 15:07:42,306 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 15:07:42,307 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 15:07:46,077 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 17:02:04,764 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 17:02:04,819 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 17:02:04,819 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 17:02:04,844 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 17:04:25,499 [ERROR] stepDefinition.VerifyCEOnameStep [main] java.lang.NullPointerException
+2022-01-21 17:04:26,002 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 17:04:26,003 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 17:04:26,003 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 17:04:26,004 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 17:05:22,358 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User is on homepage
+2022-01-21 17:05:23,180 [ERROR] stepDefinition.VerifyPendingTimesheetStep [main] org.openqa.selenium.NoSuchElementException: Unable to locate element: #employee
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 96.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220119190439, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 15992, moz:profile: C:\Users\user\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28301d1d-9858-4c11-b3d7-5f71e1b77d29
+*** Element info: {Using=id, value=employee}
+2022-01-21 17:05:23,383 [ERROR] stepDefinition.VerifyPendingTimesheetStep [main] org.openqa.selenium.NoSuchElementException: Unable to locate element: #btnView
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 96.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220119190439, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 15992, moz:profile: C:\Users\user\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28301d1d-9858-4c11-b3d7-5f71e1b77d29
+*** Element info: {Using=id, value=btnView}
+2022-01-21 17:07:25,524 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 17:07:25,531 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 17:07:25,531 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 17:07:25,560 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 17:07:54,142 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 17:07:54,905 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 17:08:04,492 [ERROR] stepDefinition.VerifyCEOnameStep [main] org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Chief Executive Officer
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+2022-01-21 17:08:09,248 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 17:08:09,307 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 17:08:09,307 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 17:08:09,307 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 17:08:09,308 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 17:08:12,865 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 17:10:23,814 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 17:10:23,818 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 17:10:23,818 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 17:10:23,821 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 17:10:45,065 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 17:10:45,847 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 17:10:51,599 [ERROR] stepDefinition.VerifyCEOnameStep [main] org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Chief Executive Officer
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+2022-01-21 17:10:56,216 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 17:10:56,285 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 17:10:56,285 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 17:10:56,285 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 17:10:56,286 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 17:10:59,292 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 17:40:24,105 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 17:40:24,156 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 17:40:24,156 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 17:40:24,158 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 17:40:59,988 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 17:41:00,777 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 17:41:08,965 [INFO ] stepDefinition.VerifyCEOnameStep [main] select the job title as {string}
+2022-01-21 17:41:10,548 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 17:41:10,587 [INFO ] stepDefinition.VerifyCEOnameStep [main] User should name as John Smith
+2022-01-21 17:41:10,629 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 17:41:10,629 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 17:41:10,630 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 17:41:10,630 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 17:41:14,118 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 21:01:30,048 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 21:01:30,076 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 21:01:30,076 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 21:01:30,148 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 21:03:04,357 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 21:03:06,208 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 21:03:13,795 [ERROR] stepDefinition.VerifyCEOnameStep [main] org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Chief Executive Officer
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+2022-01-21 21:03:19,570 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 21:03:19,693 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 21:03:19,693 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 21:03:19,693 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 21:03:19,694 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 21:03:22,850 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 21:06:30,859 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 21:06:30,863 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 21:06:30,863 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 21:06:30,864 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 21:06:51,813 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 21:06:52,574 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 21:06:57,733 [ERROR] stepDefinition.VerifyCEOnameStep [main] org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Chief Executive Officer
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+2022-01-21 21:07:02,295 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 21:07:02,374 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 21:07:02,375 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 21:07:02,375 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 21:07:02,375 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 21:07:05,572 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 21:12:18,942 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 21:12:18,946 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 21:12:18,946 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 21:12:18,948 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 21:12:39,662 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 21:12:54,793 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 21:13:00,245 [ERROR] stepDefinition.VerifyCEOnameStep [main] org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Chief Executive Officer
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+2022-01-21 21:13:04,347 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 21:13:04,415 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 21:13:04,416 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 21:13:04,416 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 21:13:04,417 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 21:13:07,363 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 21:17:55,447 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 21:17:55,454 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 21:17:55,454 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 21:17:55,457 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 21:18:21,714 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 21:18:37,680 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 21:18:42,930 [ERROR] stepDefinition.VerifyCEOnameStep [main] org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Chief Executive Officer
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+2022-01-21 21:18:47,378 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 21:18:47,477 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 21:18:47,478 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 21:18:47,478 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 21:18:47,479 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 21:18:50,794 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 21:26:53,127 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 21:26:53,133 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 21:26:53,133 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 21:26:53,135 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 21:27:19,427 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 21:27:34,898 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 21:27:40,208 [ERROR] stepDefinition.VerifyCEOnameStep [main] org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Chief Executive Officer
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+2022-01-21 21:27:44,206 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 21:27:44,271 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 21:27:44,271 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 21:27:44,271 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 21:27:44,272 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 21:27:47,195 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 22:44:47,776 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 22:44:47,844 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 22:44:47,844 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 22:44:47,846 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 22:45:36,978 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 22:45:37,872 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 22:45:43,255 [ERROR] stepDefinition.VerifyCEOnameStep [main] org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Chief Executive Officer
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+2022-01-21 22:45:47,841 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 22:45:48,573 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 22:45:48,573 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 22:45:48,573 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 22:45:48,574 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 22:45:52,094 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 22:45:52,195 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] expected message is visible
+2022-01-21 23:22:52,314 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 23:22:52,353 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 23:22:52,353 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 23:22:52,426 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 23:23:46,629 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 23:23:47,501 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 23:23:52,576 [ERROR] stepDefinition.VerifyCEOnameStep [main] org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Chief Executive Officer
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+2022-01-21 23:23:57,346 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 23:23:58,427 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 23:23:58,428 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 23:23:58,428 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 23:23:58,429 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 23:24:03,538 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 23:24:03,615 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] expected message is visible
+2022-01-21 23:25:08,458 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 23:25:08,463 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 23:25:08,463 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 23:25:08,516 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 23:25:39,058 [INFO ] stepDefinition.VerifyCEOnameStep [main] User logged in successfully
+2022-01-21 23:25:40,101 [INFO ] stepDefinition.VerifyCEOnameStep [main] User selects directory option
+2022-01-21 23:25:45,096 [ERROR] stepDefinition.VerifyCEOnameStep [main] org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Chief Executive Officer
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'USER-PC', ip: '192.168.1.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_301'
+Driver info: driver.version: unknown
+2022-01-21 23:25:49,193 [INFO ] stepDefinition.VerifyCEOnameStep [main] User clicks Search button
+2022-01-21 23:25:49,800 [INFO ] stepDefinition.CommonStepDefinition [main] Execution started
+2022-01-21 23:25:49,800 [INFO ] stepDefinition.CommonStepDefinition [main] Starting commonutilfile
+2022-01-21 23:25:49,801 [INFO ] stepDefinition.CommonStepDefinition [main] Loading Property file
+2022-01-21 23:25:49,801 [INFO ] stepDefinition.CommonStepDefinition [main] Opening Browser only once
+2022-01-21 23:25:52,792 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] User clicks view button
+2022-01-21 23:25:52,880 [INFO ] stepDefinition.VerifyPendingTimesheetStep [main] expected message is visible

@@ -1,0 +1,47 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "user-PC",
+    "children" : [ {
+      "name" : "56256@user-PC.main(1)",
+      "children" : [ {
+        "name" : "This is to verify timesheet",
+        "uid" : "8cac7c9843947147",
+        "parentUid" : "6c2790e7149d713e07e1eb300efe0803",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642785348569,
+          "stop" : 1642785352198,
+          "duration" : 3629
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This is to verify CEO name",
+        "uid" : "56afff35c808337c",
+        "parentUid" : "6c2790e7149d713e07e1eb300efe0803",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642785284652,
+          "stop" : 1642785348046,
+          "duration" : 63394
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c2790e7149d713e07e1eb300efe0803"
+    } ],
+    "uid" : "c6efc3d9af4e549b793384fc3cf826d3"
+  } ]
+}

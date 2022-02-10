@@ -1,0 +1,55 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "This feature is to get CEO name from ORG",
+    "children" : [ {
+      "name" : "This is to verify CEO name",
+      "children" : [ {
+        "name" : "This is to verify CEO name",
+        "uid" : "56afff35c808337c",
+        "parentUid" : "a722ed53d4e4f135b1abdcbba07d7902",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642785284652,
+          "stop" : 1642785348046,
+          "duration" : 63394
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a722ed53d4e4f135b1abdcbba07d7902"
+    } ],
+    "uid" : "ac868ed6bb2989afdc1baa0e6d6395ab"
+  }, {
+    "name" : "This feature is to get timesheet",
+    "children" : [ {
+      "name" : "This is to verify timesheet",
+      "children" : [ {
+        "name" : "This is to verify timesheet",
+        "uid" : "8cac7c9843947147",
+        "parentUid" : "338170344dfdd78c9f91916eecca43ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642785348569,
+          "stop" : 1642785352198,
+          "duration" : 3629
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "338170344dfdd78c9f91916eecca43ab"
+    } ],
+    "uid" : "48e6bd3f734ee2cbc30cd0837e7b8e15"
+  } ]
+}

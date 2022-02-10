@@ -1,0 +1,47 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "This feature is to get CEO name from ORG",
+    "children" : [ {
+      "name" : "This is to verify CEO name",
+      "uid" : "56afff35c808337c",
+      "parentUid" : "86caa2b7b5b840f863e1906263f218a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642785284652,
+        "stop" : 1642785348046,
+        "duration" : 63394
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "86caa2b7b5b840f863e1906263f218a6"
+  }, {
+    "name" : "This feature is to get timesheet",
+    "children" : [ {
+      "name" : "This is to verify timesheet",
+      "uid" : "8cac7c9843947147",
+      "parentUid" : "d70bfd02241aaf0994b50027f17d128d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642785348569,
+        "stop" : 1642785352198,
+        "duration" : 3629
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d70bfd02241aaf0994b50027f17d128d"
+  } ]
+}
